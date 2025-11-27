@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+opencv-python==4.8.0
+numpy==1.26.2
+Pillow==10.0.0
+shapely==2.1.1
+rasterio==1.4.6
+pyproj==3.8.0
+scikit-image==0.21.1
+matplotlib==3.8.1
+python-multipart==0.0.6
